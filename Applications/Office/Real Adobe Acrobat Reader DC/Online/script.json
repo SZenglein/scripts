@@ -1,0 +1,11 @@
+{
+    "scriptName"                 : "Online",
+    "id"                         : "applications.office.actual_adobe_acrobat_reader_dc.online",
+    "compatibleOperatingSystems" : [
+        "MACOSX",
+        "LINUX"
+    ],
+    "testingOperatingSystems" : [],
+    "free"                    : true,
+    "requiresPatch"           : false
+}
